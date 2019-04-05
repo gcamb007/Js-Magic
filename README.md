@@ -1,2 +1,2 @@
-# Js-Magic
+# Js-Ninja
 Javascript homework assignment
